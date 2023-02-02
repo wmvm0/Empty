@@ -1,5 +1,5 @@
 # Build
-#/dist
+#/docs
 /lib
 /lib-types
 /server
