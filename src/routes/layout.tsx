@@ -18,7 +18,7 @@ export default component$(() => {
         </sestionscontent>
       </main>
       <footer>
-       
+        <div>Copyright 2022-2023 wmvm <a class="beian" href="https://beian.miit.gov.cn">京ICP备2022004058号-1</a></div>
       </footer>
     </>
   );

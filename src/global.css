@@ -155,3 +155,18 @@ a.mindblow:hover {
   margin-bottom: 4px;
   transform: translateY(4px);
 } */
+
+footer {
+  position:fixed;
+  /*margin: auto;*/
+  bottom: 0;
+  width: 100%;
+  /*left:0;*/
+}
+footer div {
+  text-align: center;
+}
+footer .beian {
+  text-decoration: none;
+  color: white;
+}
