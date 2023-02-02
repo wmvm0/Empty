@@ -11,7 +11,7 @@ export default extendConfig(baseConfig, () => {
       },
     },
     plugins: [
-      qwikCity({ basePathname: '/wmvm' }),
+      qwikCity({ basePathname: '/' }),
       staticAdaptor({
         origin: 'https://wmvm.org.cn',
       }),
